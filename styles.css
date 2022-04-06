@@ -8,4 +8,5 @@
 .grid div {
     height: 70px;
     width: 70px;
+    transition: 0.6s ease;
 }
